@@ -1,2 +1,2 @@
 # JUnitExample
-Just a JUnit example
+Just an example to learn how to setup a project with JUnit.
