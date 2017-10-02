@@ -1,7 +1,7 @@
 # JUnitExample
 Just an example to learn how to setup a project with JUnit.
 
-### Story behind this
+### Story behind this
 Developed during the Object Oriented Programming course at University of Valladolid.
 
 ## How to run it
@@ -12,5 +12,5 @@ Developed during the Object Oriented Programming course at University of Vallado
 ### Run
 Import the project with Eclipse and run individually `Calculator.java` and `CalculatorTest.java`.
 
-## Built with
+## Built with
 - [JUnit 4](http://junit.org/junit4/) - Testing framework.
